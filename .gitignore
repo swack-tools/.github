@@ -3,3 +3,4 @@
 .firecrawl/
 .env
 .env.*
+.playwright-mcp/
