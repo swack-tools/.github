@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">swack-tools</title>
+  <desc id="desc">Understand files. Build better tools. Cybersecurity, threat intelligence, and AI engineering. An abstract file connects to a network of analysis nodes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#132435"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.58" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8BA7BB" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="18" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#grid)"/>
+  <path d="M18 2H1262" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <path d="M56 48L65 57L56 66M75 66H93" stroke="#5EEAD4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="110" y="66" fill="#DCE7F1" font-size="22" letter-spacing="2">swack-tools</text>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="60" letter-spacing="-2">
+    <text x="54" y="154" fill="#F0F6FC">Understand files.</text>
+    <text x="54" y="224" fill="#5EEAD4">Build better tools.</text>
+  </g>
+  <text x="57" y="292" fill="#B5C8D9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" letter-spacing="0.5">CYBERSECURITY  /  THREAT INTELLIGENCE  /  AI ENGINEERING</text>
+
+  <g stroke="#2D4D64" stroke-width="1.5">
+    <circle cx="1030" cy="176" r="123"/>
+    <circle cx="1030" cy="176" r="86" stroke-dasharray="3 9"/>
+    <path d="M808 176H899M1030 40V91M1030 260V310M1115 176H1209"/>
+  </g>
+  <g stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M945 173H906L869 136H824"/>
+    <path d="M1087 143H1125L1161 107H1205"/>
+    <path d="M1087 207H1125L1161 243H1205"/>
+    <path d="M995 114V79L975 59"/>
+    <path d="M995 234V273L965 303"/>
+  </g>
+  <g fill="#11202F" stroke="#5EEAD4" stroke-width="2">
+    <circle cx="824" cy="136" r="7"/>
+    <circle cx="975" cy="59" r="6"/>
+    <circle cx="965" cy="303" r="6"/>
+  </g>
+  <g fill="#11202F" stroke="#A78BFA" stroke-width="2">
+    <rect x="1198" y="100" width="14" height="14" rx="4"/>
+    <rect x="1198" y="236" width="14" height="14" rx="4"/>
+  </g>
+  <rect x="946" y="109" width="142" height="132" rx="18" fill="#142B3B" stroke="#325469"/>
+  <path d="M997 138H1029L1050 159V211H997V138Z" fill="#183848" stroke="#7BE6D6" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M1029 138V159H1050" stroke="#7BE6D6" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M1009 175H1038M1009 186H1038M1009 197H1025" stroke="#7BE6D6" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="1066" cy="224" r="14" fill="#5EEAD4"/>
+  <path d="M1060 224L1064 228L1072 219" stroke="#0B1220" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
